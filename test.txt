@@ -1,1 +1,2 @@
 This is a test message for a sample txt file.
+Change made in [test] branch.
